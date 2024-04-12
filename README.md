@@ -24,15 +24,56 @@
 
 ### Front-end
 
-### Front-end
+<div>
+  <a href="https://skillicons.dev" title="JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="cursor: pointer;" />
+  </a>
+  <style>
+    img[alt="JavaScript"]:hover::after { content: "JavaScript"; font-weight: bold; }
+  </style>
 
-[![JavaScript](https://skillicons.dev/icons?i=js "JavaScript")](https://skillicons.dev)
-[![TypeScript](https://skillicons.dev/icons?i=ts "TypeScript")](https://skillicons.dev)
-[![React](https://skillicons.dev/icons?i=react "React")](https://skillicons.dev)
-[![HTML](https://skillicons.dev/icons?i=html "HTML")](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css "CSS")](https://skillicons.dev)
-[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://skillicons.dev)
-[![Figma](https://skillicons.dev/icons?i=figma "Figma")](https://skillicons.dev)
+  <a href="https://skillicons.dev" title="TypeScript">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="cursor: pointer;" />
+  </a>
+  <style>
+    img[alt="TypeScript"]:hover::after { content: "TypeScript"; font-weight: bold; }
+  </style>
+
+  <a href="https://skillicons.dev" title="React">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" style="cursor: pointer;" />
+  </a>
+  <style>
+    img[alt="React"]:hover::after { content: "React"; font-weight: bold; }
+  </style>
+
+  <a href="https://skillicons.dev" title="HTML">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="cursor: pointer;" />
+  </a>
+  <style>
+    img[alt="HTML"]:hover::after { content: "HTML"; font-weight: bold; }
+  </style>
+
+  <a href="https://skillicons.dev" title="CSS">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="cursor: pointer;" />
+  </a>
+  <style>
+    img[alt="CSS"]:hover::after { content: "CSS"; font-weight: bold; }
+  </style>
+
+  <a href="https://skillicons.dev" title="Tailwind CSS">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" style="cursor: pointer;" />
+  </a>
+  <style>
+    img[alt="Tailwind CSS"]:hover::after { content: "Tailwind CSS"; font-weight: bold; }
+  </style>
+
+  <a href="https://skillicons.dev" title="Figma">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" style="cursor: pointer;" />
+  </a>
+  <style>
+    img[alt="Figma"]:hover::after { content: "Figma"; font-weight: bold; }
+  </style>
+</div>
 
 ### Back-end
 
@@ -55,29 +96,6 @@
 
 [![Linux](https://skillicons.dev/icons?i=linux "Linux")](https://skillicons.dev)
 [![Docker](https://skillicons.dev/icons?i=docker "Docker")](https://skillicons.dev)
-
-<style>
-    img[alt=JavaScript]:hover::after { content: "JavaScript"; font-weight: bold; }
-    img[alt=TypeScript]:hover::after { content: "TypeScript"; font-weight: bold; }
-    img[alt=React]:hover::after { content: "React"; font-weight: bold; }
-    img[alt=HTML]:hover::after { content: "HTML"; font-weight: bold; }
-    img[alt=CSS]:hover::after { content: "CSS"; font-weight: bold; }
-    img[alt=Tailwind CSS]:hover::after { content: "Tailwind CSS"; font-weight: bold; }
-    img[alt=Figma]:hover::after { content: "Figma"; font-weight: bold; }
-    img[alt=Node.js]:hover::after { content: "Node.js"; font-weight: bold; }
-    img[alt=NestJS]:hover::after { content: "NestJS"; font-weight: bold; }
-    img[alt=Prisma]:hover::after { content: "Prisma"; font-weight: bold; }
-    img[alt=Express.js]:hover::after { content: "Express.js"; font-weight: bold; }
-    img[alt=Java]:hover::after { content: "Java"; font-weight: bold; }
-    img[alt=Spring Boot]:hover::after { content: "Spring Boot"; font-weight: bold; }
-    img[alt=Git]:hover::after { content: "Git"; font-weight: bold; }
-    img[alt=MongoDB]:hover::after { content: "MongoDB"; font-weight: bold; }
-    img[alt=PostgreSQL]:hover::after { content: "PostgreSQL"; font-weight: bold; }
-    img[alt=MySQL]:hover::after { content: "MySQL"; font-weight: bold; }
-    img[alt=Firebase]:hover::after { content: "Firebase"; font-weight: bold; }
-    img[alt=Linux]:hover::after { content: "Linux"; font-weight: bold; }
-    img[alt=Docker]:hover::after { content: "Docker"; font-weight: bold; }
-</style>
 
 <br />
 
