@@ -22,7 +22,21 @@
 
 ## 🚀 My main skills
 
+### Front-end
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,figma)](https://skillicons.dev)
+
+### Back-end
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,prisma,express,fastfy,java,springbot,git)](https://skillicons.dev)
+
+### Data bases
+
+[![My Skills](https://skillicons.dev/icons?i=mongo,postgres,mysql,firebase)](https://skillicons.dev)
+
+### Others
+
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,jira,trello)](https://skillicons.dev)
 
 <br />
 
