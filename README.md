@@ -43,7 +43,7 @@
 [![Spring Boot](https://skillicons.dev/icons?i=spring "Spring Boot")](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=git "Git")](https://skillicons.dev)
 
-### Data bases
+### Database
 
 [![MongoDB](https://skillicons.dev/icons?i=mongo "MongoDB")](https://skillicons.dev)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres "PostgreSQL")](https://skillicons.dev)
@@ -68,7 +68,7 @@
 
   **Systems Analysis and Development** <br />
   [**Fatec Franca - Faculdade de Tecnologia "Dr. Thomaz Novelino"​**](https://site.fatecfranca.edu.br) <br />
-  Fev/2022 > Dec/2024 <br />
+  Feb/2022 > Dec/2024 <br />
   Higher education
   </p>
 </div>
