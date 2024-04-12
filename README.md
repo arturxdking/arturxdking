@@ -24,56 +24,13 @@
 
 ### Front-end
 
-<div>
-  <a href="https://skillicons.dev" title="JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="cursor: pointer;" />
-  </a>
-  <style>
-    img[alt="JavaScript"]:hover::after { content: "JavaScript"; font-weight: bold; }
-  </style>
-
-  <a href="https://skillicons.dev" title="TypeScript">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="cursor: pointer;" />
-  </a>
-  <style>
-    img[alt="TypeScript"]:hover::after { content: "TypeScript"; font-weight: bold; }
-  </style>
-
-  <a href="https://skillicons.dev" title="React">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" style="cursor: pointer;" />
-  </a>
-  <style>
-    img[alt="React"]:hover::after { content: "React"; font-weight: bold; }
-  </style>
-
-  <a href="https://skillicons.dev" title="HTML">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="cursor: pointer;" />
-  </a>
-  <style>
-    img[alt="HTML"]:hover::after { content: "HTML"; font-weight: bold; }
-  </style>
-
-  <a href="https://skillicons.dev" title="CSS">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="cursor: pointer;" />
-  </a>
-  <style>
-    img[alt="CSS"]:hover::after { content: "CSS"; font-weight: bold; }
-  </style>
-
-  <a href="https://skillicons.dev" title="Tailwind CSS">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" style="cursor: pointer;" />
-  </a>
-  <style>
-    img[alt="Tailwind CSS"]:hover::after { content: "Tailwind CSS"; font-weight: bold; }
-  </style>
-
-  <a href="https://skillicons.dev" title="Figma">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" style="cursor: pointer;" />
-  </a>
-  <style>
-    img[alt="Figma"]:hover::after { content: "Figma"; font-weight: bold; }
-  </style>
-</div>
+[![JavaScript](https://skillicons.dev/icons?i=js "JavaScript")](https://skillicons.dev)
+[![TypeScript](https://skillicons.dev/icons?i=ts "TypeScript")](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react "React")](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html "HTML")](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css "CSS")](https://skillicons.dev)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://skillicons.dev)
+[![Figma](https://skillicons.dev/icons?i=figma "Figma")](https://skillicons.dev)
 
 ### Back-end
 
