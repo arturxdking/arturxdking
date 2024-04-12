@@ -24,19 +24,40 @@
 
 ### Front-end
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,figma)](https://skillicons.dev)
+### Front-end
+
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 ### Back-end
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,prisma,express,fastfy,java,springbot,git)](https://skillicons.dev)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![NestJS](https://skillicons.dev/icons?i=nestjs)](https://skillicons.dev)
+[![Prisma](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
+[![Express.js](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![Spring Boot](https://skillicons.dev/icons?i=springboot)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
 ### Data bases
 
-[![My Skills](https://skillicons.dev/icons?i=mongo,postgres,mysql,firebase)](https://skillicons.dev)
+[![MongoDB](https://skillicons.dev/icons?i=mongo)](https://skillicons.dev)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
 
 ### Others
 
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,jira,trello)](https://skillicons.dev)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![Jira](https://skillicons.dev/icons?i=jira)](https://skillicons.dev)
+[![Trello](https://skillicons.dev/icons?i=trelo)](https://skillicons.dev)
+
 
 <br />
 
