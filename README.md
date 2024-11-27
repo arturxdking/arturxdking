@@ -68,7 +68,7 @@
 
   **Systems Analysis and Development** <br />
   [**Fatec Franca - Faculdade de Tecnologia "Dr. Thomaz Novelino"​**](https://site.fatecfranca.edu.br) <br />
-  Feb/2022 > Jun/2025 <br />
+  Feb/2022 > Dec/2024 <br />
   Higher education
   </p>
 </div>
